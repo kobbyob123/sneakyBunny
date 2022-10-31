@@ -3,12 +3,12 @@ This is another one of those coding algorithms that never get used anywhere but 
 <hr>
 
 ### The Problem :
-There are 100 holes in farm numbered 0 - 99.
-A rabbit is randomly placed in a hole.
-You are to guess the number of the hole the rabbit was put in 10 tries - (Kinda impossible tho).
-The rabbit moves to an adjacent hole after every wrong guess.
-It cannot stay inside the same hole after a wrong guess.
-eg: if the rabbit was in hole 5, after a wrong guess it can only move to hole 4 or 6.
+- There are 100 holes in farm numbered 0 - 99.
+- A rabbit is randomly placed in a hole.
+- You are to guess the number of the hole the rabbit was put in 10 tries - (Kinda impossible tho).
+- The rabbit moves to an adjacent hole after every wrong guess.
+- It cannot stay inside the same hole after a wrong guess.
+- eg: if the rabbit was in hole 5, after a wrong guess it can only move to hole 4 or 6.
 
 ### The Solution :
 You can guess all the numbers you want in 10 tries (can be tweaked to whatever you like) buts it's very unlikely to guess where this sketchy bunny will be.
