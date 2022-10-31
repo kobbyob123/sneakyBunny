@@ -1,4 +1,4 @@
-### Happy Bunny
+### Sneaky Bunny
 This is another one of those coding algorithms that never get used anywhere but then it's great for your creativity.
 <hr>
 
