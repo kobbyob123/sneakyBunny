@@ -1,4 +1,4 @@
-### Sneaky Bunny
+### A fun game with a Sneaky Bunny
 This is another one of those coding algorithms that never get used anywhere but then it's great for your creativity.
 <hr>
 
@@ -15,7 +15,7 @@ You can guess all the numbers you want in 10 tries (can be tweaked to whatever y
 I have written an algorithm to corner the rabbit but it still need's some work.
 
 ### The Bug :
-The algorithm I have written to catch this sneaky works sometimes, it sometimes misses the bunny and it has to run again before it can catch the rabbit.
+The algorithm I have written to catch this sneaky bunny kind of works, it sometimes misses the bunny and it has to be run again or maybe a third before it can catch the rabbit.
 Let's say probability of success is about 40%.
 
 ### Resolution :
